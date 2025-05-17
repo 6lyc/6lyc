@@ -3,9 +3,9 @@
 
 <p align="center">
   <samp>
-    <a href="https://drive.google.com/file/d/1UsneG7BCrd82RtSoD4X2uAlHnAsBib44/view">cv</a> ∙ 
-    <a href="https://blog.csdn.net/m0_50826544?spm=1000.2115.3001.5343">blog</a> ∙
-    <a href="https://github.com/6lyc">github</a> 
+    <a href="https://drive.google.com/file/d/1UsneG7BCrd82RtSoD4X2uAlHnAsBib44/view">CV</a> ∙ 
+    <a href="https://scholar.google.com/citations?user=t73_KbYAAAAJ&hl">Scholar</a> ∙
+    <a href="https://blog.csdn.net/m0_50826544?spm=1000.2115.3001.5343">Blog</a> 
   </samp>
 </p>
 
