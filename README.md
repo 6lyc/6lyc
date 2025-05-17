@@ -1,16 +1,32 @@
-## Hi there 👋
+<h3 align="center"> Yuecheng Li </h3>
 
-<!--
-**6lyc/6lyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <samp>
+    <a href="https://drive.google.com/file/d/1UsneG7BCrd82RtSoD4X2uAlHnAsBib44/view">cv</a> ∙ 
+    <a href="https://blog.csdn.net/m0_50826544?spm=1000.2115.3001.5343">blog</a> ∙
+    <a href="https://github.com/6lyc">github</a> 
+  </samp>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=6lyc&show_icons=true&hide_border=true&theme=merko" width="50%">
+
+
+#### Welcome to my github profile!
+<!-- languages:start -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+- 🔭 I’m a postgraduate student [**@SYSU-CSE**](https://cse.sysu.edu.cn/).
+- 🌱 My current research interests focus on LLMs, Federated Learning, and Graph Machine Learning [>more](https://scholar.google.com/citations?user=t73_KbYAAAAJ&hl).
+- 📫 You can reach me at [liych78@mail2.sysu.edu.cn](mailto:liych78@mail2.sysu.edu.cn).
+- 🎨 I am glad to share and communicate with you.
+- ❤️ X: @Yuecheng_Lee
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- languages:end -->
+
+---
