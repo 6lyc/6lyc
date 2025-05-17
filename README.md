@@ -19,11 +19,11 @@
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-- 🔭 I’m a postgraduate student [**@SYSU-CSE**](https://cse.sysu.edu.cn/).
-- 🌱 My current research interests focus on LLMs, Federated Learning, and Graph Machine Learning [>more](https://scholar.google.com/citations?user=t73_KbYAAAAJ&hl).
+- 📚 I’m a postgraduate student [**@SYSU-CSE**](https://cse.sysu.edu.cn/).
+- 💡 My current research interests focus on LLMs, Federated Learning, and Graph Machine Learning [>more](https://scholar.google.com/citations?user=t73_KbYAAAAJ&hl).
 - 📫 You can reach me at [liych78@mail2.sysu.edu.cn](mailto:liych78@mail2.sysu.edu.cn).
-- 🎨 I am glad to share and communicate with you.
-- ❤️ X: @Yuecheng_Lee
+- ❤️ I am glad to share and communicate with you.
+- 💬 X: @Yuecheng_Lee
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
