@@ -31,4 +31,7 @@
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/6lyc/count.svg)
+<p align="center"> 
+ 🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
+  <img src="https://profile-counter.glitch.me/6lyc/count.svg"/>
+  </p>
