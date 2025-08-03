@@ -23,15 +23,10 @@
 - 💡 My current research interests focus on **LLMs**, **Federated Learning**, and **Graph Machine Learning** [>more](https://scholar.google.com/citations?user=t73_KbYAAAAJ&hl).
 - 📫 You can reach me at [liych78@mail2.sysu.edu.cn](mailto:liych78@mail2.sysu.edu.cn).
 - ❤️ I am glad to share and communicate with you.
-- 💬 X: @Yuecheng_Lee
+- 💬 X: [@Yuecheng_Lee](https://x.com/Yuecheng_Lee)
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- languages:end -->
 
 ---
-
-<p align="center"> 
- 🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
-  <img src="https://profile-counter.glitch.me/6lyc/count.svg"/>
-  </p>
